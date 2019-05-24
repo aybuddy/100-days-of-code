@@ -6,13 +6,13 @@
 
 **Thoughts:** Much better understanding of how a SPA is built and the logic that goes to building it.
 
-<!-- 
-### Day 1: April 29, 2019
 
-**Today's Progress**: Started working on freeCodeCamp's responsive web design projects Build a Tribute Page
+### Day 1: May 23, 2019
 
-**Thoughts**: Got all tests to pass but 1, responsive images. Incorporating CSS grid and flexbox to make it responsive.
- -->
+**Today's Progress**: Relearned const, let, arrow functions, spread, and rest operators
+
+**Thoughts**: All the previous topics I learned about advanced array methods, closures, this keyword, etc. is coming together as I relearn ES2015. I understand better why they are used and how.
+
 
 <!-- 
 ### Day 2: April 30, 2019
